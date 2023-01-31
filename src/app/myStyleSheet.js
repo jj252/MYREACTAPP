@@ -1,0 +1,1 @@
+export const liStyle = {color : 'blue', fontSize:'23px'}
