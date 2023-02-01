@@ -1,5 +1,5 @@
-import reactLakeImg from '../assets/img/react-lake.jpg';
-import chromeRiverImg from '../assets/img/chrome-river.jpg';
+import reactLakeImg from '../assets/img/ccna_exploration_4.jpg';
+import chromeRiverImg from '../assets/img/icnd1.jpg';
 import breadCrumbImg from '../assets/img/breadcrumb-trail.jpg';
 import reduxWoodsImg from '../assets/img/redux-woods.jpg';
 
